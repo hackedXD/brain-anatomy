@@ -1,0 +1,650 @@
+[
+	{
+		"code": "1.1.0.0.0",
+		"name": "Cerebral Cortex",
+		"othername": "Cortex Cerebri",
+		"shortname": "cerebral-cortex",
+		"description": "**STARTED**\n\nThe cerebral cortex is the outermost layer of the brain, and it is responsible for many of our higher-level functions, such as thinking, feeling, and perceiving. It is made up of gray matter, which is composed of densely packed neurons. The cerebral cortex is divided into four lobes: the frontal lobe, the parietal lobe, the temporal lobe, and the occipital lobe. Each lobe is responsible for different functions.\n\n**ENDED**\n\nThe cerebral cortex is involved in a wide range of diseases, including Alzheimer's disease, frontotemporal dementia, schizophrenia, and autism spectrum disorder. These diseases can damage the cerebral cortex and lead to a variety of symptoms, such as memory loss, impaired judgment, social withdrawal, and language problems.\n\nHere are some of the most common diseases of the cerebral cortex:\n\n* Alzheimer's disease: This is a progressive neurodegenerative disease that causes memory loss, cognitive decline, and eventually death.\n* Frontotemporal dementia: This is a group of dementias that affect the frontal and temporal lobes of the brain. Symptoms can include personality changes, impaired judgment, and language problems.\n* Schizophrenia: This is a mental illness that affects how a person thinks, feels, and behaves. Symptoms can include delusions, hallucinations, and disorganized thinking.\n* Autism spectrum disorder: This is a developmental disorder that affects communication and social interaction. Symptoms can vary widely, but they often include repetitive behaviors and restricted interests.\n\nThese are just a few of the many diseases that can affect the cerebral cortex. If you are experiencing any symptoms that you think may be related to a cerebral cortex disease, it is important to see a doctor for diagnosis and treatment.",
+		"url": "https://en.wikipedia.org/wiki/Cerebral_cortex"
+	},
+	{
+		"code": "1.1.3.1.0",
+		"name": "Primary Visual Cortex",
+		"othername": "",
+		"shortname": "primary-visual-cortex",
+		"description": "**STARTED**\n\nThe primary visual cortex, also known as V1, is the first area of the brain to receive visual information from the retina. It is located in the occipital lobe at the back of the brain. V1 is responsible for processing the basic features of vision, such as shape, color, and movement.\n\n**ENDED**\n\nV1 is involved in a number of diseases, including:\n\n* **Blindness:** Damage to V1 can lead to blindness in the affected eye.\n* **Amblyopia:** This is a condition where one eye is underdeveloped, usually due to strabismus or other problems with eye alignment. Amblyopia can be treated if it is caught early, but if left untreated, it can lead to permanent vision loss.\n* **Visual field defects:** These are areas of the visual field that are missing or distorted. They can be caused by damage to V1 or other parts of the visual pathway.\n* **Glaucoma:** This is a group of eye diseases that damage the optic nerve, which can lead to vision loss. Glaucoma can affect V1, causing visual field defects and other problems with vision.\n\nIf you are experiencing any problems with your vision, it is important to see an eye doctor to get a diagnosis. In some cases, damage to V1 may be reversible, so early diagnosis and treatment are important.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Visual_cortex"
+	},
+	{
+		"code": "3.4.8.0.0",
+		"name": "Medial Geniculate Nucleus",
+		"othername": "Corpus Geniculatum Mediale",
+		"shortname": "medial-geniculate-nucleus",
+		"description": "**STARTED**\n\nThe medial geniculate nucleus (MGN) is a part of the thalamus, which is a relay station for sensory information traveling to the cortex. The MGN is responsible for relaying auditory information from the inferior colliculus to the primary auditory cortex.\n\n**ENDED**\n\nThe MGN is involved in a number of diseases, including:\n\n* **Auditory processing disorder (APD):** This is a condition that affects the way the brain processes sound. People with APD may have difficulty understanding speech, especially in noisy environments.\n* **Hearing loss:** Damage to the MGN can lead to hearing loss, especially in the high frequencies.\n* **Tinnitus:** This is a condition that causes ringing or buzzing in the ears. Tinnitus can be caused by damage to the MGN or other parts of the auditory pathway.\n* **Degenerative diseases:** The MGN can be affected by degenerative diseases, such as Alzheimer's disease and Parkinson's disease. These diseases can lead to hearing loss and other problems with hearing.\n\nIf you are experiencing any problems with your hearing, it is important to see an audiologist to get a diagnosis. In some cases, damage to the MGN may be reversible, so early diagnosis and treatment are important.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Medial_geniculate_nucleus"
+	},
+	{
+		"code": "3.2.0.0.0",
+		"name": "Hypothalamus",
+		"othername": "Hypothalamus",
+		"shortname": "hypothalamus",
+		"description": "**STARTED**\n\nThe hypothalamus is a small, pea-sized structure located at the base of the brain. It is responsible for a wide range of functions, including:\n\n* **Body temperature regulation:** The hypothalamus controls the release of hormones that help regulate body temperature.\n* **Appetite and weight control:** The hypothalamus controls the release of hormones that regulate appetite and weight.\n* **Water balance:** The hypothalamus controls the release of hormones that regulate water balance.\n* **Sleep-wake cycle:** The hypothalamus controls the release of hormones that regulate the sleep-wake cycle.\n* **Reproduction:** The hypothalamus controls the release of hormones that regulate reproduction.\n\n**ENDED**\n\nThe hypothalamus is involved in a number of diseases, including:\n\n* **Hypopituitarism:** This is a condition where the hypothalamus does not produce enough hormones. This can lead to a variety of symptoms, including growth problems, weight loss, and fatigue.\n* **Diabetes insipidus:** This is a condition where the hypothalamus does not produce enough of the hormone ADH. This can lead to excessive thirst and urination.\n* **Anorexia nervosa:** This is an eating disorder characterized by an intense fear of gaining weight. Anorexia nervosa can damage the hypothalamus, leading to problems with body temperature regulation, water balance, and reproduction.\n* **Narcolepsy:** This is a sleep disorder characterized by excessive daytime sleepiness and sudden episodes of sleep. Narcolepsy is thought to be caused by a problem with the hypothalamus.\n\nIf you are experiencing any symptoms that you think may be related to a hypothalamus disease, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Hypothalamus"
+	},
+	{
+		"code": "1.1.1.4.0",
+		"name": "Premotor Cortex",
+		"othername": "",
+		"shortname": "premotor-cortex",
+		"description": "**STARTED**\n\nThe premotor cortex is a region of the brain that is involved in planning and executing voluntary movements. It is located in front of the primary motor cortex, which is responsible for actually carrying out movements. The premotor cortex receives input from sensory areas of the brain, as well as from other parts of the brain that are involved in cognition and emotion.\n\n**ENDED**\n\nThe premotor cortex is involved in a number of diseases, including:\n\n* **Parkinson's disease:** This is a neurodegenerative disease that affects the motor system. Parkinson's disease can damage the premotor cortex, leading to problems with planning and executing movements.\n* **Apraxia:** This is a disorder that affects the ability to plan and execute voluntary movements. Apraxia can be caused by damage to the premotor cortex or other parts of the brain.\n* **Stroke:** A stroke can damage the premotor cortex, leading to problems with planning and executing movements.\n* **Brain injury:** A brain injury can damage the premotor cortex, leading to problems with planning and executing movements.\n\nIf you are experiencing any problems with your movements, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Premotor_cortex"
+	},
+	{
+		"code": "1.1.3.1.1",
+		"name": "Optic Radiation",
+		"othername": "Radiatio Optica",
+		"shortname": "optic-radiation",
+		"description": "**STARTED**\n\nThe optic radiation is a bundle of nerve fibers that carries visual information from the lateral geniculate nucleus (LGN) to the primary visual cortex (V1) in the occipital lobe. It is located in the white matter of the brain, and it is made up of millions of nerve fibers.\n\n**ENDED**\n\nThe optic radiation is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the optic radiation, leading to vision loss in the affected eye or eyes.\n* **Tumor:** A tumor can damage the optic radiation, leading to vision loss in the affected eye or eyes.\n* **Multiple sclerosis:** This is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the optic radiation, leading to vision loss in the affected eye or eyes.\n* **Optic neuritis:** This is an inflammation of the optic nerve. Optic neuritis can damage the optic radiation, leading to vision loss in the affected eye or eyes.\n\nIf you are experiencing any problems with your vision, it is important to see an eye doctor to get a diagnosis. In some cases, damage to the optic radiation may be reversible, so early diagnosis and treatment are important.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Optic_radiation"
+	},
+	{
+		"code": "3.4.1.0.0",
+		"name": "Anterior Nucleus",
+		"othername": "Nucleus Anterior",
+		"shortname": "anterior-nucleus",
+		"description": "**STARTED**\n\nThe anterior nucleus (AN) is a group of nuclei in the thalamus, a structure deep in the brain. The AN is involved in a variety of functions, including:\n\n* **Motivation:** The AN is involved in the motivation to seek rewards and avoid punishments.\n* **Memory:** The AN is involved in the consolidation of new memories.\n* **Emotion:** The AN is involved in the processing of emotions, such as pleasure and pain.\n* **Pain:** The AN is involved in the modulation of pain.\n\n**ENDED**\n\nThe AN has been implicated in a number of diseases, including:\n\n* **Parkinson's disease:** The AN is affected in Parkinson's disease, and damage to the AN can contribute to the movement and cognitive dysfunction seen in the disease.\n* **Huntington's disease:** The AN is affected in Huntington's disease, and damage to the AN can contribute to the movement and cognitive dysfunction seen in the disease.\n* **Alzheimer's disease:** The AN is affected in Alzheimer's disease, and damage to the AN can contribute to the memory and cognitive decline seen in the disease.\n\nIf you are experiencing any problems with your motivation, memory, emotion, or pain, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": ""
+	},
+	{
+		"code": "1.1.1.6.0",
+		"name": "Red Nucleus",
+		"othername": "Nucleus Ruber",
+		"shortname": "red-nucleus",
+		"description": "**STARTED**\n\nThe red nucleus is a small, oval-shaped structure located in the midbrain. It is part of the extrapyramidal system, which is a network of brain structures that control movement. The red nucleus receives input from the cerebellum and the basal ganglia, and it sends output to the spinal cord.\n\n**ENDED**\n\nThe red nucleus is involved in a number of functions, including:\n\n* **Controlling voluntary movements:** The red nucleus helps to control voluntary movements, such as reaching and grasping.\n* **Maintaining muscle tone:** The red nucleus helps to maintain muscle tone, which is the amount of tension in the muscles.\n* **Coordinating eye movements:** The red nucleus helps to coordinate eye movements, such as those used in following a moving object.\n\nThe red nucleus is involved in a number of diseases, including:\n\n* **Parkinson's disease:** Parkinson's disease is a neurodegenerative disease that affects the extrapyramidal system. Damage to the red nucleus is a common feature of Parkinson's disease, and it can contribute to the movement problems seen in the disease.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Damage to the red nucleus can occur in multiple sclerosis, and it can contribute to the movement problems seen in the disease.\n* **Stroke:** A stroke can damage the red nucleus, and it can lead to movement problems on the side of the body opposite to the stroke.\n\nIf you are experiencing any problems with your movement, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Red_nucleus"
+	},
+	{
+		"code": "1.1.3.3.0",
+		"name": "Parietooccipital Sulcus",
+		"othername": "Sulcus Parietooccipitalis",
+		"shortname": "parietooccipital-sulcus",
+		"description": "**STARTED**\n\nThe parietooccipital sulcus is a deep sulcus in the cerebral cortex that marks the boundary between the cuneus and precuneus, and also between the parietal and occipital lobes. It is a landmark structure in the brain, and it is involved in a number of functions, including:\n\n* **Visual processing:** The parietooccipital sulcus is involved in the processing of visual information, such as shape, color, and movement.\n* **Spatial awareness:** The parietooccipital sulcus is involved in spatial awareness, such as the ability to know where your body is in space.\n* **Attention:** The parietooccipital sulcus is involved in attention, such as the ability to focus on a particular object or task.\n\n**ENDED**\n\nThe parietooccipital sulcus is involved in a number of diseases, including:\n\n* **Posterior cortical atrophy (PCA):** PCA is a neurodegenerative disease that affects the posterior brain regions, including the parietooccipital sulcus. PCA can lead to visual problems, such as blindness or spatial neglect.\n* **Alzheimer's disease:** Alzheimer's disease is a neurodegenerative disease that can affect the parietooccipital sulcus. Alzheimer's disease can lead to visual problems, such as difficulty recognizing faces or objects.\n* **Stroke:** A stroke can damage the parietooccipital sulcus, leading to visual problems, such as blindness or spatial neglect.\n\nIf you are experiencing any problems with your vision or spatial awareness, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Parieto-occipital_sulcus"
+	},
+	{
+		"code": "3.4.0.0.0",
+		"name": "Thalamus",
+		"othername": "Thalamus",
+		"shortname": "thalamus",
+		"description": "**STARTED**\n\nThe thalamus is a large, egg-shaped structure located in the middle of the brain. It is a relay station for sensory information traveling to the cortex. The thalamus receives input from all of the senses, including vision, hearing, touch, taste, and smell. It then sends this information to the appropriate areas of the cortex for further processing.\n\n**ENDED**\n\nThe thalamus is involved in a number of functions, including:\n\n* **Sensation:** The thalamus is involved in the processing of sensory information, such as vision, hearing, touch, taste, and smell.\n* **Attention:** The thalamus is involved in attention, such as the ability to focus on a particular object or task.\n* **Wakefulness:** The thalamus is involved in wakefulness, such as the ability to stay awake and alert.\n* **Sleep:** The thalamus is involved in sleep, such as the ability to fall asleep and stay asleep.\n* **Pain:** The thalamus is involved in pain, such as the ability to perceive and process pain.\n\nThe thalamus is involved in a number of diseases, including:\n\n* **Thalamic stroke:** A thalamic stroke is a stroke that occurs in the thalamus. Thalamic strokes can cause a variety of symptoms, including pain, sensory loss, movement problems, and cognitive problems.\n* **Thalamic tumors:** Thalamic tumors are tumors that occur in the thalamus. Thalamic tumors can cause a variety of symptoms, depending on the size and location of the tumor.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the thalamus, leading to a variety of symptoms, including pain, sensory loss, movement problems, and cognitive problems.\n\nIf you are experiencing any problems with your senses, attention, wakefulness, sleep, or pain, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Thalamus"
+	},
+	{
+		"code": "1.1.8.0.0",
+		"name": "Longitudinal Fissure",
+		"othername": "Fissura Longitudinalis Cerebri",
+		"shortname": "longitudinal-fissure",
+		"description": "**STARTED**\n\nThe longitudinal fissure is a deep fissure that divides the cerebrum into two hemispheres, the left and right hemispheres. It is the largest fissure in the brain, and it runs from the front of the brain to the back. The longitudinal fissure contains the corpus callosum, a large bundle of nerve fibers that connects the two hemispheres.\n\n**ENDED**\n\nThe longitudinal fissure is not associated with any specific diseases. However, damage to the longitudinal fissure can occur as a result of head injuries or strokes. This damage can lead to a variety of symptoms, including:\n\n* **Hemiplegia:** This is a paralysis of one side of the body.\n* **Hemianopia:** This is a loss of vision in one half of the visual field.\n* **Apraxia:** This is a disorder that affects the ability to perform voluntary movements.\n* **Language problems:** This can include problems with speaking, understanding speech, or reading.\n\nIf you are experiencing any of these symptoms, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Longitudinal_fissure"
+	},
+	{
+		"code": "3.2.1.0.0",
+		"name": "Mammilary Body",
+		"othername": "Corpus Mammillare",
+		"shortname": "mammilary-body",
+		"description": "**STARTED**\n\nThe mammillary bodies are a pair of small, oval-shaped structures located in the hypothalamus, a part of the brain that is involved in a variety of functions, including memory, olfaction, and emotions. The mammillary bodies receive input from the hippocampus, a region of the brain that is involved in memory, and they send output to the anterior thalamus, a region of the brain that is involved in olfaction.\n\n**ENDED**\n\nThe mammillary bodies are involved in a number of diseases, including:\n\n* **Wernicke-Korsakoff syndrome:** This is a neurological disorder that is caused by thiamine deficiency. Wernicke-Korsakoff syndrome is characterized by amnesia, confabulation, and apathy. The mammillary bodies are often damaged in Wernicke-Korsakoff syndrome, which is why it is also known as Wernicke's encephalopathy.\n* **Alzheimer's disease:** This is a neurodegenerative disease that is characterized by memory loss, cognitive decline, and eventually death. The mammillary bodies are often damaged in Alzheimer's disease, which is why it is one of the diagnostic criteria for the disease.\n* **Head injury:** Head injuries can damage the mammillary bodies, which can lead to memory problems, olfaction problems, and emotional problems.\n\nIf you are experiencing any problems with your memory, olfaction, or emotions, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Mammillary_body"
+	},
+	{
+		"code": "1.1.2.1.1",
+		"name": "Postcentral Gyrus",
+		"othername": "Gyrus Postcentralis",
+		"shortname": "postcentral-gyrus",
+		"description": "**STARTED**\n\nThe postcentral gyrus is a strip of cortex located in the parietal lobe of the brain. It is responsible for processing somatosensory information, which is information about the body's position and movement. The postcentral gyrus receives input from the thalamus, a structure deep in the brain that relays sensory information from the body to the cortex.\n\n**ENDED**\n\nThe postcentral gyrus is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the postcentral gyrus, leading to problems with somatosensory perception. This can include problems with feeling touch, pain, temperature, and position.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the postcentral gyrus, leading to problems with somatosensory perception.\n* **Cerebral palsy:** Cerebral palsy is a group of disorders that affect movement and coordination. Cerebral palsy can damage the postcentral gyrus, leading to problems with somatosensory perception.\n\nIf you are experiencing any problems with your somatosensory perception, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Postcentral_gyrus"
+	},
+	{
+		"code": "1.1.1.7.0",
+		"name": "Central Sulcus",
+		"othername": "Sulcus Centralisi",
+		"shortname": "central-sulcus",
+		"description": "**STARTED**\n\nThe central sulcus, also known as the fissure of Rolando, is a deep groove that divides the frontal lobe from the parietal lobe in the brain. It is one of the most prominent features of the cerebral cortex, and it is important for motor and sensory processing.\n\n**ENDED**\n\nThe central sulcus is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the central sulcus, leading to problems with movement and sensation.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the central sulcus, leading to problems with movement and sensation.\n* **Cerebral palsy:** Cerebral palsy is a group of disorders that affect movement and coordination. Cerebral palsy can damage the central sulcus, leading to problems with movement and sensation.\n\nIf you are experiencing any problems with your movement or sensation, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the central sulcus:**\n\n* The central sulcus is named after Luigi Rolando, an Italian physician who first described it in 1772.\n* The central sulcus is about 2 centimeters deep and 8 centimeters long.\n* The central sulcus is divided into two parts: the precentral gyrus and the postcentral gyrus.\n* The precentral gyrus is responsible for motor control.\n* The postcentral gyrus is responsible for somatosensory perception.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Central_sulcus"
+	},
+	{
+		"code": "3.4.2.0.0",
+		"name": "Dorsomedial Nucleus",
+		"othername": "Nucleus Mediodorsalis",
+		"shortname": "dorsomedial-nucleus",
+		"description": "Sure, here is some information about the dorsomedial nucleus (DMN) and the diseases it is related to:\n\n**STARTED**\n\nThe dorsomedial nucleus (DMN) is a group of neurons located in the thalamus, a structure deep in the brain. The DMN is involved in a variety of functions, including:\n\n* **Memory:** The DMN is involved in the consolidation of memories, which is the process of storing memories in the brain.\n* **Attention:** The DMN is involved in attention, which is the ability to focus on a particular thing.\n* **Emotion:** The DMN is involved in emotion, such as processing emotions and regulating emotional responses.\n* **Decision-making:** The DMN is involved in decision-making, which is the process of choosing between different options.\n\n**ENDED**\n\nThe DMN is involved in a number of diseases, including:\n\n* **Alzheimer's disease:** Alzheimer's disease is a neurodegenerative disease that affects the DMN. Alzheimer's disease can lead to problems with memory, attention, and emotion.\n* **Depression:** Depression is a mental illness that can affect the DMN. Depression can lead to problems with memory, attention, and emotion.\n* **Post-traumatic stress disorder (PTSD):** PTSD is a mental illness that can affect the DMN. PTSD can lead to problems with memory, attention, and emotion.\n\nIf you are experiencing any problems with your memory, attention, emotion, or decision-making, it is important to see a doctor for diagnosis and treatment.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": ""
+	},
+	{
+		"code": "1.1.3.2.0",
+		"name": "Calcarine Sulcus",
+		"othername": "Sulcus Calcarinus",
+		"shortname": "calcarine-sulcus",
+		"description": "Sure, here is some information about the calcarine sulcus and the diseases it is related to:\n\n**STARTED**\n\nThe calcarine sulcus is a deep groove on the medial surface of the occipital lobe of the brain. It is the primary visual cortex, which means that it is responsible for processing visual information.\n\n**ENDED**\n\nThe calcarine sulcus is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the calcarine sulcus, leading to vision problems, such as blindness or visual field defects.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the calcarine sulcus, leading to vision problems.\n* **Retinitis pigmentosa:** Retinitis pigmentosa is a genetic disorder that affects the retina. Retinitis pigmentosa can damage the calcarine sulcus, leading to vision problems.\n\nIf you are experiencing any problems with your vision, it is important to see an eye doctor for diagnosis and treatment.\n\n**Here are some additional details about the calcarine sulcus:**\n\n* The calcarine sulcus is named after the Latin word for \"scallop,\" which is a reference to its shape.\n* The calcarine sulcus is about 3 centimeters deep and 8 centimeters long.\n* The calcarine sulcus is divided into two parts: the upper bank and the lower bank.\n* The upper bank of the calcarine sulcus is responsible for processing visual information from the left eye.\n* The lower bank of the calcarine sulcus is responsible for processing visual information from the right eye.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Calcarine_sulcus"
+	},
+	{
+		"code": "3.3.0.0.0",
+		"name": "Subthalamic Nucleus",
+		"othername": "Nucleus Subthalamicus",
+		"shortname": "subthalamic-nucleus",
+		"description": "Sure, here is some information about the subthalamic nucleus (STN) and the diseases it is related to:\n\n**STARTED**\n\nThe subthalamic nucleus (STN) is a small, egg-shaped structure located in the basal ganglia, a group of structures deep in the brain that are involved in movement control. The STN receives input from the globus pallidus, another structure in the basal ganglia, and it sends output to the substantia nigra, a structure in the midbrain.\n\n**ENDED**\n\nThe STN is involved in a number of diseases, including:\n\n* **Parkinson's disease:** Parkinson's disease is a neurodegenerative disease that affects the basal ganglia. Damage to the STN is a common feature of Parkinson's disease, and it can contribute to the movement problems seen in the disease.\n* **Essential tremor:** Essential tremor is a movement disorder that is characterized by shaking. The STN is involved in essential tremor, and it is a target for deep brain stimulation (DBS) treatment.\n* **Dystonia:** Dystonia is a movement disorder that is characterized by involuntary muscle contractions. The STN is involved in dystonia, and it is a target for DBS treatment.\n\nIf you are experiencing any problems with your movement, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the subthalamic nucleus:**\n\n* The STN is named after its location, which is below (sub) the thalamus.\n* The STN is about 3 millimeters long and 2 millimeters wide.\n* The STN is a part of the indirect pathway, which is a pathway in the basal ganglia that is involved in movement control.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Subthalamic_nucleus"
+	},
+	{
+		"code": "2.1.1.0.0",
+		"name": "Flocculonodular Lobe",
+		"othername": "Lobus Flocculonodularis",
+		"shortname": "flocculonodular-lobe",
+		"description": "**STARTED**\n\nThe flocculonodular lobe, also known as the archicerebellum, is a small lobe at the back of the brain that is involved in balance and coordination. It is connected to the vestibular system, which is a sensory system that helps us maintain balance and spatial orientation.\n\n**ENDED**\n\nThe flocculonodular lobe is involved in a number of diseases, including:\n\n* **Vestibular disorders:** These are disorders that affect the vestibular system. Vestibular disorders can damage the flocculonodular lobe, leading to balance problems and dizziness.\n* **Ataxia:** Ataxia is a movement disorder that is characterized by poor coordination. Ataxia can damage the flocculonodular lobe, leading to balance problems and difficulty walking.\n* **Cerebellar degeneration:** Cerebellar degeneration is a group of diseases that affect the cerebellum. Cerebellar degeneration can damage the flocculonodular lobe, leading to balance problems and difficulty walking.\n\nIf you are experiencing any problems with your balance or coordination, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the flocculonodular lobe:**\n\n* The flocculonodular lobe is named after its two main structures, the flocculus and the nodulus.\n* The flocculonodular lobe is about 1.5 centimeters long and 1 centimeter wide.\n* The flocculonodular lobe is part of the cerebellum, which is a large structure at the back of the brain that is involved in balance, coordination, and movement.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Flocculonodular_lobe"
+	},
+	{
+		"code": "1.1.1.5.1",
+		"name": "Primary Motor Cortex",
+		"othername": "",
+		"shortname": "primary-motor-cortex",
+		"description": "**STARTED**\n\nThe primary motor cortex (M1) is a region of the brain that is responsible for planning and executing voluntary movements. It is located in the frontal lobe, just in front of the central sulcus.\n\n**ENDED**\n\nThe primary motor cortex is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the primary motor cortex, leading to paralysis or weakness on the opposite side of the body.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the primary motor cortex, leading to paralysis or weakness on the affected side of the body.\n* **Amyotrophic lateral sclerosis (ALS):** ALS is a neurodegenerative disease that affects the motor neurons. ALS can damage the primary motor cortex, leading to paralysis or weakness on the affected side of the body.\n\nIf you are experiencing any problems with your movement, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the primary motor cortex:**\n\n* The primary motor cortex is also known as Brodmann area 4.\n* The primary motor cortex is about 2 centimeters thick and 5 centimeters wide.\n* The primary motor cortex is divided into a number of different areas, each of which is responsible for controlling a different part of the body.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Primary_motor_cortex"
+	},
+	{
+		"code": "3.4.8.1.0",
+		"name": "Inferior Colliculus",
+		"othername": "Colliculus Inferior",
+		"shortname": "inferior-colliculus",
+		"description": "Sure, I can help you with that.\n\n**STARTED**\n\nThe inferior colliculus (IC) is a structure in the midbrain that is involved in the processing of sound. It is part of the auditory pathway, which is the pathway that sound travels through the brain.\n\n**ENDED**\n\nThe IC is involved in a number of diseases, including:\n\n* **Hearing loss:** Damage to the IC can lead to hearing loss.\n* **Tinnitus:** Tinnitus is a condition characterized by ringing in the ears. The IC is involved in the processing of sound, and damage to the IC can lead to tinnitus.\n* **Meniere's disease:** Meniere's disease is a disorder of the inner ear that can cause hearing loss, tinnitus, and vertigo. The IC is involved in the processing of sound, and damage to the IC can contribute to the symptoms of Meniere's disease.\n\nIf you are experiencing any problems with your hearing, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the inferior colliculus:**\n\n* The IC is located in the midbrain, just below the thalamus.\n* The IC is about 1.5 centimeters long and 1 centimeter wide.\n* The IC is divided into two parts, the central nucleus and the external nucleus.\n* The central nucleus is involved in the processing of sound localization.\n* The external nucleus is involved in the processing of sound intensity.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Inferior_colliculus"
+	},
+	{
+		"code": "1.1.3.0.0",
+		"name": "Occipital Lobe",
+		"othername": "Lobus Occipitalis",
+		"shortname": "occipital-lobe",
+		"description": "Sure, here is some information about the occipital lobe and the diseases it is related to:\n\n**STARTED**\n\nThe occipital lobe is the most posterior lobe of the brain, and it is responsible for processing visual information. It is located at the back of the head, and it is separated from the parietal lobe by the parieto-occipital sulcus.\n\n**ENDED**\n\nThe occipital lobe is involved in a number of diseases, including:\n\n* **Achromatopsia:** This is a rare condition that is characterized by the inability to see colors. Achromatopsia is caused by damage to the occipital lobe.\n* **Visual agnosia:** This is a condition that is characterized by the inability to recognize objects, even though they can be seen. Visual agnosia is caused by damage to the occipital lobe.\n* **Blindness:** Damage to the occipital lobe can lead to blindness.\n\nIf you are experiencing any problems with your vision, it is important to see an eye doctor for diagnosis and treatment.\n\n**Here are some additional details about the occipital lobe:**\n\n* The occipital lobe is named after the Latin word for \"back of the head.\"\n* The occipital lobe is about 5 centimeters thick and 10 centimeters wide.\n* The occipital lobe is divided into two parts, the primary visual cortex and the secondary visual cortex.\n* The primary visual cortex is responsible for processing basic visual information, such as shapes and colors.\n* The secondary visual cortex is responsible for processing more complex visual information, such as object recognition and spatial relationships.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Occipital_lobe"
+	},
+	{
+		"code": "1.1.1.5.0",
+		"name": "Precentral Gyrus",
+		"othername": "Gyrus Precentralis",
+		"shortname": "precentral-gyrus",
+		"description": "Sure, here is some information about the precentral gyrus and the diseases it is related to:\n\n**STARTED**\n\nThe precentral gyrus is a strip of cortex located in the frontal lobe of the brain. It is responsible for planning and executing voluntary movements. It is also known as the primary motor cortex or Brodmann area 4.\n\n**ENDED**\n\nThe precentral gyrus is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the precentral gyrus, leading to paralysis or weakness on the opposite side of the body.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the precentral gyrus, leading to paralysis or weakness on the affected side of the body.\n* **Amyotrophic lateral sclerosis (ALS):** ALS is a neurodegenerative disease that affects the motor neurons. ALS can damage the precentral gyrus, leading to paralysis or weakness on the affected side of the body.\n\nIf you are experiencing any problems with your movement, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the precentral gyrus:**\n\n* The precentral gyrus is located in the frontal lobe, just in front of the central sulcus.\n* The precentral gyrus is about 2 centimeters thick and 5 centimeters wide.\n* The precentral gyrus is divided into a number of different areas, each of which is responsible for controlling a different part of the body.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Precentral_gyrus"
+	},
+	{
+		"code": "3.2.3.0.0",
+		"name": "Pituitary Stalk",
+		"othername": "Infundibulum",
+		"shortname": "pituitary-stalk",
+		"description": "**STARTED**\n\nThe pituitary stalk is a small, slender stalk that connects the pituitary gland to the hypothalamus. It is about 10 millimeters long and 1 millimeter thick.\n\n**ENDED**\n\nThe pituitary stalk is involved in a number of diseases, including:\n\n* **Pituitary apoplexy:** This is a rare condition that is characterized by bleeding in the pituitary gland. Pituitary apoplexy can damage the pituitary stalk, leading to problems with the release of hormones from the pituitary gland.\n* **Sheehan's syndrome:** This is a condition that is characterized by the underproduction of hormones from the pituitary gland. Sheehan's syndrome is caused by damage to the pituitary stalk during childbirth.\n* **Infiltrative disorders:** These are disorders that can damage the pituitary stalk, leading to problems with the release of hormones from the pituitary gland. Infiltrative disorders include sarcoidosis, histiocytosis, and Langerhans cell histiocytosis.\n\nIf you are experiencing any problems with your hormones, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the pituitary stalk:**\n\n* The pituitary stalk is also known as the infundibulum.\n* The pituitary stalk is made up of axons from neurons in the hypothalamus.\n* The pituitary stalk transports hormones from the hypothalamus to the pituitary gland.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Pituitary_stalk"
+	},
+	{
+		"code": "1.1.2.0.0",
+		"name": "Parietal Lobe",
+		"othername": "Lobus Patietalis",
+		"shortname": "parietal-lobe",
+		"description": "**STARTED**\n\nThe parietal lobe is one of the four major lobes of the cerebral cortex, located in the upper part of the brain. It is responsible for a variety of functions, including:\n\n* **Somatosensory perception:** The parietal lobe receives sensory information from the body, such as touch, pain, temperature, and proprioception (the sense of body position).\n* **Spatial awareness:** The parietal lobe helps us to understand our surroundings and to navigate through space.\n* **Language:** The parietal lobe is involved in some aspects of language, such as understanding the meaning of words and sentences.\n\n**ENDED**\n\nThe parietal lobe is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the parietal lobe, leading to problems with somatosensory perception, spatial awareness, and language.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the parietal lobe, leading to problems with somatosensory perception, spatial awareness, and language.\n* **Gerstmann's syndrome:** Gerstmann's syndrome is a rare neurological disorder that is characterized by a combination of deficits in calculation, right-left discrimination, finger agnosia, and agraphia. Gerstmann's syndrome is caused by damage to the parietal lobe.\n\nIf you are experiencing any problems with your somatosensory perception, spatial awareness, or language, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the parietal lobe:**\n\n* The parietal lobe is named after the Latin word for \"wall.\"\n* The parietal lobe is about 4 centimeters thick and 15 centimeters wide.\n* The parietal lobe is divided into several different areas, each of which is responsible for a different function.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Parietal_lobe"
+	},
+	{
+		"code": "1.1.1.1.1",
+		"name": "Cingulate Gyrus",
+		"othername": "Gyrus Cinguli",
+		"shortname": "cingulate-gyrus",
+		"description": "**STARTED**\n\nThe cingulate gyrus is a large, curved band of cortex that runs along the medial surface of the cerebral hemispheres. It is part of the limbic system, which is a group of brain structures that are involved in emotions, motivation, and memory.\n\n**ENDED**\n\nThe cingulate gyrus is involved in a number of diseases, including:\n\n* **Depression:** The cingulate gyrus is involved in the processing of emotions, and damage to the cingulate gyrus can lead to depression.\n* **Post-traumatic stress disorder (PTSD):** The cingulate gyrus is involved in the processing of memories, and damage to the cingulate gyrus can lead to PTSD.\n* **Obsessive-compulsive disorder (OCD):** The cingulate gyrus is involved in the processing of thoughts and behaviors, and damage to the cingulate gyrus can lead to OCD.\n\nIf you are experiencing any problems with your emotions, memory, or behavior, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the cingulate gyrus:**\n\n* The cingulate gyrus is named after the Latin word for \"girdle.\"\n* The cingulate gyrus is about 5 centimeters thick and 15 centimeters long.\n* The cingulate gyrus is divided into two parts, the anterior cingulate gyrus and the posterior cingulate gyrus.\n* The anterior cingulate gyrus is involved in the processing of emotions.\n* The posterior cingulate gyrus is involved in the processing of memories and attention.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Cingulate_cortex"
+	},
+	{
+		"code": "3.2.2.0.0",
+		"name": "Pituitary Gland",
+		"othername": "Hypophysis, Glandula Pituitaria",
+		"shortname": "pituitary-gland",
+		"description": "**STARTED**\n\nThe pituitary gland, also known as the hypophysis, is a small, pea-sized gland located at the base of the brain. It is attached to the hypothalamus by a thin stalk. The pituitary gland is responsible for producing and releasing hormones that control many important functions in the body, including growth, reproduction, and metabolism.\n\n**ENDED**\n\nThe pituitary gland is involved in a number of diseases, including:\n\n* **Acromegaly:** Acromegaly is a condition that is caused by the overproduction of growth hormone from the pituitary gland. Acromegaly can lead to enlarged bones and organs, as well as other health problems.\n* **Hypopituitarism:** Hypopituitarism is a condition that is caused by the underproduction of hormones from the pituitary gland. Hypopituitarism can lead to a number of health problems, including growth retardation, infertility, and fatigue.\n* **Pituitary tumors:** Pituitary tumors are growths that occur in the pituitary gland. Pituitary tumors can cause a variety of symptoms, depending on the type of tumor and its size.\n\nIf you are experiencing any problems with your growth, reproduction, or metabolism, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the pituitary gland:**\n\n* The pituitary gland is named after the Latin word for \"little shepherd.\"\n* The pituitary gland is about 1 centimeter long and 0.5 centimeters wide.\n* The pituitary gland is divided into two parts, the anterior pituitary and the posterior pituitary.\n* The anterior pituitary produces and releases hormones that control growth, reproduction, and metabolism.\n* The posterior pituitary stores and releases hormones that are produced by the hypothalamus.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Pituitary_gland"
+	},
+	{
+		"code": "3.4.3.0.0",
+		"name": "Ventral Anterior Nucleus",
+		"othername": "Nucleus Ventralis Anterior",
+		"shortname": "ventral-anterior-nucleus",
+		"description": "Sure, here is some information about the ventral anterior nucleus (VA) and the diseases it is related to:\n\n**STARTED**\n\nThe ventral anterior nucleus (VA) is a nucleus in the thalamus, a group of nuclei deep in the brain that are involved in relaying sensory information to the cortex and in controlling movement. The VA is involved in a variety of functions, including:\n\n* **Initiating and planning movements:** The VA is involved in the initiation and planning of voluntary movements.\n* **Motivation:** The VA is involved in motivation, such as the desire to eat, drink, and have sex.\n* **Emotion:** The VA is involved in emotion, such as the experience of pleasure and pain.\n\n**ENDED**\n\nThe VA is involved in a number of diseases, including:\n\n* **Parkinson's disease:** Parkinson's disease is a neurodegenerative disease that affects the basal ganglia, a group of nuclei deep in the brain that are involved in movement control. The VA is involved in Parkinson's disease, and damage to the VA can contribute to the movement problems seen in the disease.\n* **Depression:** Depression is a mental illness that is characterized by low mood, loss of interest, and fatigue. The VA is involved in depression, and damage to the VA can contribute to the symptoms of depression.\n* **Autism spectrum disorder:** Autism spectrum disorder (ASD) is a developmental disorder that is characterized by impaired social interaction and communication. The VA is involved in ASD, and damage to the VA can contribute to the symptoms of ASD.\n\nIf you are experiencing any problems with your movement, motivation, or emotion, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the ventral anterior nucleus:**\n\n* The VA is located in the anterior part of the thalamus.\n* The VA is about 2 centimeters long and 1 centimeter wide.\n* The VA is divided into two parts, the ventral anterior nucleus pars magnocellularis (VAmc) and the ventral anterior nucleus pars parvocellularis (VApc).\n* The VAmc is involved in movement control.\n* The VApc is involved in motivation and emotion.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Ventral_anterior_nucleus"
+	},
+	{
+		"code": "1.1.1.3.1",
+		"name": "Broca\u2019s Area",
+		"othername": "",
+		"shortname": "broca\u2019s-area",
+		"description": "Sure, here is some information about Broca's area and the diseases it is related to:\n\n**STARTED**\n\nBroca's area is a region of the brain that is involved in speech production. It is located in the frontal lobe, on the left side of the brain, and is named after Pierre Paul Broca, the French surgeon who first identified it in 1861.\n\n**ENDED**\n\nBroca's area is involved in a number of functions, including:\n\n* **Planning and sequencing speech:** Broca's area is involved in the planning and sequencing of speech, such as the selection of words and the coordination of movements of the mouth and tongue.\n* **Generating speech sounds:** Broca's area is involved in generating speech sounds, such as the production of vowels and consonants.\n* **Understanding speech:** Broca's area is also involved in understanding speech, although its role in this function is less well understood.\n\nBroca's area is involved in a number of diseases, including:\n\n* **Aphasia:** Aphasia is a language disorder that is caused by damage to Broca's area. Aphasia can range from mild difficulty speaking to complete inability to speak.\n* **Parkinson's disease:** Parkinson's disease is a neurodegenerative disease that can damage Broca's area. This can lead to problems with speech production, such as slowness of speech and difficulty articulating words.\n* **Stroke:** A stroke can damage Broca's area, leading to aphasia.\n\nIf you are experiencing any problems with your speech, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about Broca's area:**\n\n* Broca's area is also known as Brodmann area 44.\n* Broca's area is about 3 centimeters long and 2 centimeters wide.\n* Broca's area is located in the frontal lobe, just in front of the motor cortex.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Broca%27s_area"
+	},
+	{
+		"code": "1.1.1.1.2",
+		"name": "Parahippocampal Gyrus",
+		"othername": "Gyrus Parahippocampalis",
+		"shortname": "parahippocampal-gyrus",
+		"description": "**STARTED**\n\nThe parahippocampal gyrus is a region of the brain that is involved in memory and navigation. It is located in the temporal lobe, on the medial side of the brain, and is named after its proximity to the hippocampus.\n\n**ENDED**\n\nThe parahippocampal gyrus is involved in a number of functions, including:\n\n* **Encoding and retrieval of memories:** The parahippocampal gyrus is involved in encoding and retrieving memories, such as memories of places and events.\n* **Spatial navigation:** The parahippocampal gyrus is involved in spatial navigation, such as the ability to find your way around a familiar environment.\n* **Object recognition:** The parahippocampal gyrus is involved in object recognition, such as the ability to recognize faces and objects.\n\nThe parahippocampal gyrus is involved in a number of diseases, including:\n\n* **Alzheimer's disease:** Alzheimer's disease is a neurodegenerative disease that damages the hippocampus and parahippocampal gyrus. This can lead to problems with memory and navigation.\n* **Severe traumatic brain injury:** Severe traumatic brain injury can damage the parahippocampal gyrus. This can lead to problems with memory and navigation.\n* **Epilepsy:** Epilepsy is a neurological disorder that can cause seizures. The parahippocampal gyrus is a common site for seizures to start.\n\nIf you are experiencing any problems with your memory, navigation, or seizures, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the parahippocampal gyrus:**\n\n* The parahippocampal gyrus is also known as the perirhinal cortex.\n* The parahippocampal gyrus is about 5 centimeters long and 2 centimeters wide.\n* The parahippocampal gyrus is divided into two parts, the entorhinal cortex and the perirhinal cortex.\n* The entorhinal cortex is involved in sending information to the hippocampus.\n* The perirhinal cortex is involved in processing sensory information and in storing memories.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Parahippocampal_gyrus"
+	},
+	{
+		"code": "1.1.1.3.0",
+		"name": "Prefrontal Cortex",
+		"othername": "",
+		"shortname": "prefrontal-cortex",
+		"description": "Sure, here is some information about the prefrontal cortex and the diseases it is related to:\n\n**STARTED**\n\nThe prefrontal cortex (PFC) is a region of the brain that is involved in a wide range of functions, including:\n\n* **Executive functions:** The PFC is involved in executive functions, such as planning, decision-making, and problem-solving.\n* **Social behavior:** The PFC is involved in social behavior, such as understanding the emotions of others and responding appropriately.\n* **Working memory:** The PFC is involved in working memory, which is the ability to hold information in mind and manipulate it.\n* **Emotion:** The PFC is involved in emotion, such as regulating emotions and understanding the emotional states of others.\n\n**ENDED**\n\nThe PFC is involved in a number of diseases, including:\n\n* **Attention deficit hyperactivity disorder (ADHD):** ADHD is a neurodevelopmental disorder that is characterized by inattention, hyperactivity, and impulsivity. The PFC is involved in ADHD, and damage to the PFC can contribute to the symptoms of ADHD.\n* **Frontotemporal dementia (FTD):** FTD is a neurodegenerative disease that affects the frontal and temporal lobes of the brain. The PFC is involved in FTD, and damage to the PFC can lead to problems with executive functions, social behavior, and working memory.\n* **Traumatic brain injury (TBI):** TBI can damage the PFC. This can lead to problems with executive functions, social behavior, and working memory.\n\nIf you are experiencing any problems with your executive functions, social behavior, or working memory, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the prefrontal cortex:**\n\n* The prefrontal cortex is located in the frontal lobe, at the front of the brain.\n* The prefrontal cortex is about 5 centimeters long and 3 centimeters wide.\n* The prefrontal cortex is divided into several different areas, each of which is involved in a different function.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Prefrontal_cortex"
+	},
+	{
+		"code": "2.1.0.0.0",
+		"name": "Cerebellar Hemisphere",
+		"othername": "Hemisphaerium Cerebelli",
+		"shortname": "cerebellar-hemisphere",
+		"description": "**STARTED**\n\nThe cerebellar hemisphere is one of the two halves of the cerebellum, a large, paired structure at the back of the brain. It is responsible for coordinating movement, balance, and posture.\n\n**ENDED**\n\nThe cerebellar hemisphere is involved in a number of diseases, including:\n\n* **Cerebellar ataxia:** Cerebellar ataxia is a group of disorders that affect the coordination of movement. Cerebellar ataxia can be caused by damage to the cerebellum, such as a stroke or a tumor.\n* **Friedreich's ataxia:** Friedreich's ataxia is a genetic disorder that causes progressive damage to the cerebellum. Friedreich's ataxia typically starts in childhood or adolescence and leads to problems with coordination, balance, and gait.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the cerebellum, leading to problems with coordination, balance, and gait.\n\nIf you are experiencing any problems with your coordination, balance, or gait, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the cerebellar hemisphere:**\n\n* The cerebellar hemisphere is about 5 centimeters thick and 10 centimeters wide.\n* The cerebellar hemisphere is divided into several different lobes, each of which is involved in a different function.\n* The cerebellar hemisphere receives input from the vestibular system, which is responsible for balance, and from the motor cortex, which is responsible for planning and executing movements.\n* The cerebellar hemisphere sends output to the spinal cord, which controls muscles.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Cerebellar_hemisphere"
+	},
+	{
+		"code": "1.1.4.3.0",
+		"name": "Hippocampus",
+		"othername": "Hippocampus",
+		"shortname": "hippocampus",
+		"description": "Sure, here is some information about the hippocampus and the diseases it is related to:\n\n**STARTED**\n\nThe hippocampus is a small, seahorse-shaped structure located in the temporal lobe of the brain. It is involved in a number of functions, including:\n\n* **Long-term memory:** The hippocampus is involved in the formation of long-term memories, such as memories of events and places.\n* **Spatial navigation:** The hippocampus is involved in spatial navigation, such as the ability to find your way around a familiar environment.\n* **Emotion:** The hippocampus is involved in emotion, such as the experience of fear and anxiety.\n\n**ENDED**\n\nThe hippocampus is involved in a number of diseases, including:\n\n* **Alzheimer's disease:** Alzheimer's disease is a neurodegenerative disease that damages the hippocampus. This can lead to problems with memory, spatial navigation, and emotion.\n* **Epilepsy:** Epilepsy is a neurological disorder that can cause seizures. The hippocampus is a common site for seizures to start.\n* **Traumatic brain injury (TBI):** TBI can damage the hippocampus. This can lead to problems with memory, spatial navigation, and emotion.\n\nIf you are experiencing any problems with your memory, spatial navigation, or emotion, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the hippocampus:**\n\n* The hippocampus is named after its resemblance to a seahorse.\n* The hippocampus is about 3 centimeters long and 1 centimeter wide.\n* The hippocampus is divided into two parts, the dentate gyrus and the hippocampus proper.\n* The dentate gyrus is involved in the formation of new memories.\n* The hippocampus proper is involved in the consolidation of memories.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Hippocampus"
+	},
+	{
+		"code": "1.1.6.4.3",
+		"name": "Substantia Nigra",
+		"othername": "Substantia Nigra",
+		"shortname": "substantia-nigra",
+		"description": "**STARTED**\n\nThe substantia nigra is a small, dark-colored nucleus located in the midbrain. It is involved in a number of functions, including:\n\n* **Movement:** The substantia nigra is involved in the control of movement, such as the initiation and coordination of voluntary movements.\n* **Reward:** The substantia nigra is involved in the reward system, which is responsible for the experience of pleasure.\n* **Learning:** The substantia nigra is involved in learning, such as the ability to learn new skills.\n\n**ENDED**\n\nThe substantia nigra is involved in a number of diseases, including:\n\n* **Parkinson's disease:** Parkinson's disease is a neurodegenerative disease that damages the substantia nigra. This can lead to problems with movement, such as tremors, rigidity, and slowness of movement.\n* **Multiple system atrophy:** Multiple system atrophy is a neurodegenerative disease that can damage the substantia nigra. This can lead to problems with movement, such as tremors, rigidity, and slowness of movement.\n* **Stroke:** A stroke can damage the substantia nigra. This can lead to problems with movement, such as tremors, rigidity, and slowness of movement.\n\nIf you are experiencing any problems with your movement, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the substantia nigra:**\n\n* The substantia nigra is named after its dark color, which is caused by the high levels of neuromelanin in the neurons of the substantia nigra.\n* The substantia nigra is divided into two parts, the pars compacta and the pars reticulata.\n* The pars compacta is the part of the substantia nigra that is involved in movement.\n* The pars reticulata is the part of the substantia nigra that is involved in the reward system.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Substantia_nigra"
+	},
+	{
+		"code": "2.5.3.0.0",
+		"name": "Inferior Cerebellar Peduncles",
+		"othername": "Pedunculus Cerebellaris Inferior",
+		"shortname": "inferior-cerebellar-peduncles",
+		"description": "Sure, here is some information about the inferior cerebellar peduncles and the diseases it is related to:\n\n**STARTED**\n\nThe inferior cerebellar peduncles (ICPs) are a pair of bundles of nerve fibers that connect the cerebellum to the brainstem. They are responsible for carrying information from the spinal cord and brainstem to the cerebellum, and from the cerebellum to the spinal cord.\n\n**ENDED**\n\nThe inferior cerebellar peduncles are involved in a number of functions, including:\n\n* **Motor coordination:** The ICPs are involved in the coordination of movement.\n* **Balance:** The ICPs are involved in balance.\n* **Proprioception:** The ICPs are involved in proprioception, which is the sense of the position of the body in space.\n\nThe inferior cerebellar peduncles are involved in a number of diseases, including:\n\n* **Cerebellar ataxia:** Cerebellar ataxia is a group of disorders that affect the coordination of movement. Cerebellar ataxia can be caused by damage to the ICPs, such as a stroke or a tumor.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that affects the central nervous system. Multiple sclerosis can damage the ICPs, leading to problems with coordination, balance, and gait.\n* **Friedreich's ataxia:** Friedreich's ataxia is a genetic disorder that causes progressive damage to the ICPs. Friedreich's ataxia typically starts in childhood or adolescence and leads to problems with coordination, balance, and gait.\n\nIf you are experiencing any problems with your coordination, balance, or gait, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the inferior cerebellar peduncles:**\n\n* The inferior cerebellar peduncles are also known as the restiform body.\n* The inferior cerebellar peduncles are about 2 centimeters thick and 5 centimeters long.\n* The inferior cerebellar peduncles contain fibers from the spinal cord, brainstem, and cerebellum.\n* The inferior cerebellar peduncles transmit information about movement, balance, and proprioception.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Inferior_cerebellar_peduncle"
+	},
+	{
+		"code": "3.4.6.0.0",
+		"name": "Ventral Posteromedial Nucleus",
+		"othername": "Nucleus Ventralis Posteromedialis",
+		"shortname": "ventral-posteromedial-nucleus",
+		"description": "**STARTED**\n\nThe ventral posteromedial nucleus (VPM) is a nucleus in the thalamus that receives sensory information from the face and head. It is responsible for relaying this information to the somatosensory cortex, which is responsible for processing touch, pain, temperature, and other sensory information from the body.\n\n**ENDED**\n\nThe VPM is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the VPM, leading to problems with touch, pain, temperature, and other sensory information from the face and head.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that can damage the VPM, leading to problems with touch, pain, temperature, and other sensory information from the face and head.\n* **Bell's palsy:** Bell's palsy is a condition that causes temporary paralysis of the facial nerve. The VPM can be affected by Bell's palsy, leading to problems with touch, pain, temperature, and other sensory information from the face.\n\nIf you are experiencing any problems with your touch, pain, temperature, or other sensory information from the face and head, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the ventral posteromedial nucleus:**\n\n* The VPM is located in the thalamus, which is a group of nuclei deep in the brain.\n* The VPM is about 2 centimeters long and 1 centimeter wide.\n* The VPM receives sensory information from the trigeminal nerve, which is the main sensory nerve for the face and head.\n* The VPM relays this information to the somatosensory cortex, which is located in the parietal lobe of the brain.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Ventral_posteromedial_nucleus"
+	},
+	{
+		"code": "1.1.4.3.1",
+		"name": "Subiculum",
+		"othername": "Subiculum",
+		"shortname": "subiculum",
+		"description": "**STARTED**\n\nThe subiculum is a part of the hippocampus, a structure in the brain that is involved in memory and spatial navigation. The subiculum is located in the medial temporal lobe, and it is thought to be involved in the consolidation of memories from short-term to long-term storage.\n\n**ENDED**\n\nThe subiculum is involved in a number of diseases, including:\n\n* **Alzheimer's disease:** Alzheimer's disease is a neurodegenerative disease that damages the hippocampus and subiculum. This can lead to problems with memory and spatial navigation.\n* **Epilepsy:** Epilepsy is a neurological disorder that can cause seizures. The subiculum is a common site for seizures to start.\n* **Traumatic brain injury (TBI):** TBI can damage the subiculum. This can lead to problems with memory and spatial navigation.\n\nIf you are experiencing any problems with your memory or spatial navigation, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the subiculum:**\n\n* The subiculum is named after its resemblance to a staircase.\n* The subiculum is about 2 centimeters long and 1 centimeter wide.\n* The subiculum receives input from the entorhinal cortex, which is a part of the cortex that is involved in memory and spatial navigation.\n* The subiculum sends output to the hippocampus proper, which is another part of the hippocampus that is involved in memory and spatial navigation.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Subiculum"
+	},
+	{
+		"code": "1.1.5.3.4",
+		"name": "Corona Radiata",
+		"othername": "Corona Radiata",
+		"shortname": "corona-radiata",
+		"description": "**STARTED**\n\nThe corona radiata is a white matter tract in the brain that connects the cerebral cortex to the thalamus and other subcortical structures. It is a sheet of nerve fibers that radiates outward from the cortex, like the spokes of a wheel.\n\n**ENDED**\n\nThe corona radiata is involved in a number of functions, including:\n\n* **Motor control:** The corona radiata carries motor signals from the cortex to the brainstem and spinal cord, which control movement.\n* **Sensory processing:** The corona radiata carries sensory signals from the cortex to the thalamus, which processes sensory information.\n* **Cognition:** The corona radiata is involved in a number of cognitive functions, such as attention, memory, and language.\n\nThe corona radiata is involved in a number of diseases, including:\n\n* **Stroke:** A stroke can damage the corona radiata, leading to problems with motor control, sensory processing, and cognition.\n* **Multiple sclerosis:** Multiple sclerosis is a chronic disease that can damage the corona radiata, leading to problems with motor control, sensory processing, and cognition.\n* **Traumatic brain injury (TBI):** TBI can damage the corona radiata, leading to problems with motor control, sensory processing, and cognition.\n\nIf you are experiencing any problems with your motor control, sensory processing, or cognition, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the corona radiata:**\n\n* The corona radiata is about 2 centimeters thick and 10 centimeters long.\n* The corona radiata is divided into several different bundles, each of which carries a different type of signal.\n* The corona radiata is a very important structure in the brain, and damage to it can have a devastating impact on a person's ability to function.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Corona_radiata"
+	},
+	{
+		"code": "2.4.1.4.0",
+		"name": "Dentate Nucleus",
+		"othername": "Nucleus Dentatus",
+		"shortname": "dentate-nucleus",
+		"description": "**STARTED**\n\nThe dentate nucleus is a part of the cerebellum, a structure in the brain that is involved in motor control, balance, and coordination. The dentate nucleus is located in the medial temporal lobe, and it is thought to be involved in the planning and execution of movements.\n\n**ENDED**\n\nThe dentate nucleus is involved in a number of diseases, including:\n\n* **Huntington's disease:** Huntington's disease is a neurodegenerative disease that damages the dentate nucleus. This can lead to problems with motor control, balance, and coordination.\n* **Spinocerebellar ataxia:** Spinocerebellar ataxia is a group of genetic disorders that damage the dentate nucleus. This can lead to problems with motor control, balance, and coordination.\n* **Traumatic brain injury (TBI):** TBI can damage the dentate nucleus. This can lead to problems with motor control, balance, and coordination.\n\nIf you are experiencing any problems with your motor control, balance, or coordination, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the dentate nucleus:**\n\n* The dentate nucleus is named after its resemblance to a tooth.\n* The dentate nucleus is about 2 centimeters long and 1 centimeter wide.\n* The dentate nucleus receives input from the cortex, the thalamus, and the spinal cord.\n* The dentate nucleus sends output to the thalamus, which is involved in motor control.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Dentate_nucleus"
+	},
+	{
+		"code": "1.1.4.3.3",
+		"name": "Hippocampus Proper",
+		"othername": "Cornu Ammonis, Gyrus Hippocampi",
+		"shortname": "hippocampus-proper",
+		"description": "**STARTED**\n\nThe hippocampus proper is the main part of the hippocampus, a structure in the brain that is involved in memory and spatial navigation. The hippocampus proper is located in the medial temporal lobe, and it is thought to be involved in the consolidation of memories from short-term to long-term storage.\n\n**ENDED**\n\nThe hippocampus proper is involved in a number of diseases, including:\n\n* **Alzheimer's disease:** Alzheimer's disease is a neurodegenerative disease that damages the hippocampus proper. This can lead to problems with memory and spatial navigation.\n* **Epilepsy:** Epilepsy is a neurological disorder that can cause seizures. The hippocampus proper is a common site for seizures to start.\n* **Traumatic brain injury (TBI):** TBI can damage the hippocampus proper. This can lead to problems with memory and spatial navigation.\n\nIf you are experiencing any problems with your memory or spatial navigation, it is important to see a doctor for diagnosis and treatment.\n\n**Here are some additional details about the hippocampus proper:**\n\n* The hippocampus proper is named after its resemblance to a seahorse.\n* The hippocampus proper is about 3 centimeters long and 1 centimeter wide.\n* The hippocampus proper receives input from the entorhinal cortex, which is a part of the cortex that is involved in memory and spatial navigation.\n* The hippocampus proper sends output to the mammillary bodies, which are involved in memory and learning.\n\nI hope this helps! Let me know if you have any other questions.",
+		"url": "https://en.wikipedia.org/wiki/Hippocampus_proper"
+	},
+	{
+		"code": "3.2.7.0.0",
+		"name": "Supraoptic Nucleus",
+		"othername": "Nucleus Supraopticus",
+		"shortname": "supraoptic-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",62],[\"af.httprm\",62,\"3755305114813921816\",6]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Supraoptic_nucleus"
+	},
+	{
+		"code": "1.1.6.4.1",
+		"name": "Caudate Nucleus",
+		"othername": "Nucleus Caudatus",
+		"shortname": "caudate-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",64],[\"af.httprm\",63,\"-5455582465975368352\",6]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Caudate_nucleus"
+	},
+	{
+		"code": "1.1.4.3.2",
+		"name": "Dentate Gyrus",
+		"othername": "Gyrus Dentatus",
+		"shortname": "dentate-gyrus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n53\\n[[\"di\",64],[\"af.httprm\",64,\"185340208703247259\",6]]\\n25\\n[[\"e\",4,null,null,128]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Dentate_gyrus"
+	},
+	{
+		"code": "1.1.7.0.0",
+		"name": "Transverse Fissure",
+		"othername": "Fissura Transversa Cerebri",
+		"shortname": "transverse-fissure",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",73],[\"af.httprm\",72,\"4295539252275538361\",6]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": ""
+	},
+	{
+		"code": "1.1.4.1.0",
+		"name": "Amygdala",
+		"othername": "Corpus Amygdaloideum",
+		"shortname": "amygdala",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",61],[\"af.httprm\",61,\"7620948814240957882\",6]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Amygdala"
+	},
+	{
+		"code": "1.1.5.3.3",
+		"name": "Posterior Limb",
+		"othername": "Crus Posterius",
+		"shortname": "posterior-limb",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",64],[\"af.httprm\",64,\"-8568791153863479948\",6]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Internal_capsule"
+	},
+	{
+		"code": "3.1.2.0.0",
+		"name": "Habenula",
+		"othername": "Habenula",
+		"shortname": "habenula",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",56],[\"af.httprm\",56,\"-1350406601938185823\",6]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Habenula"
+	},
+	{
+		"code": "1.1.4.5.0",
+		"name": "Olfactory Tract",
+		"othername": "",
+		"shortname": "olfactory-tract",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",69],[\"af.httprm\",68,\"-5873437894362638661\",6]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Olfactory_tract"
+	},
+	{
+		"code": "3.2.6.0.0",
+		"name": "Paraventricular Nucleus",
+		"othername": "Nucleus Paraventricularis",
+		"shortname": "paraventricular-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",53],[\"af.httprm\",53,\"-1559827361338351875\",6]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Paraventricular_nucleus_of_hypothalamus"
+	},
+	{
+		"code": "1.1.4.5.1",
+		"name": "Olfactory Bulb",
+		"othername": "Bulbus Olfactorius",
+		"shortname": "olfactory-bulb",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",59],[\"af.httprm\",59,\"7970028668774696075\",6]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Olfactory_bulb"
+	},
+	{
+		"code": "1.1.5.1.0",
+		"name": "Corpus Callosum",
+		"othername": "Corpus Callosum",
+		"shortname": "corpus-callosum",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",65],[\"af.httprm\",64,\"-6553847253485980827\",6]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Corpus_callosum"
+	},
+	{
+		"code": "1.1.5.3.2",
+		"name": "Genu",
+		"othername": "Genu",
+		"shortname": "genu",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",63],[\"af.httprm\",62,\"4728577672276007528\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Genu_recurvatum"
+	},
+	{
+		"code": "2.4.1.2.0",
+		"name": "Globose Nucleus",
+		"othername": "Nucleus Globosus",
+		"shortname": "globose-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",64],[\"af.httprm\",64,\"-7524448592928586134\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Globose_nucleus"
+	},
+	{
+		"code": "1.1.4.7.0",
+		"name": "Wernicke\u2019s Area",
+		"othername": "",
+		"shortname": "wernicke\u2019s-area",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",98],[\"af.httprm\",97,\"-717533254679870067\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Wernicke%27s_area"
+	},
+	{
+		"code": "2.5.2.0.0",
+		"name": "Middle Cerebellar Peduncles",
+		"othername": "Pedunculus Cerebellaris Medius",
+		"shortname": "middle-cerebellar-peduncles",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n53\\n[[\"di\",65],[\"af.httprm\",65,\"865910225457120176\",7]]\\n25\\n[[\"e\",4,null,null,128]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Middle_cerebellar_peduncle"
+	},
+	{
+		"code": "1.1.5.3.1",
+		"name": "Anterior Limb",
+		"othername": "Crus Anterius",
+		"shortname": "anterior-limb",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",61],[\"af.httprm\",61,\"5411087772792348852\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Internal_capsule"
+	},
+	{
+		"code": "3.4.7.0.0",
+		"name": "Lateral Geniculate Nucleus",
+		"othername": "Corpus Geniculatum Laterale",
+		"shortname": "lateral-geniculate-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",63],[\"af.httprm\",63,\"3515282826146523778\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus"
+	},
+	{
+		"code": "1.1.5.4.0",
+		"name": "External Capsule",
+		"othername": "Capsula Externa",
+		"shortname": "external-capsule",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",67],[\"af.httprm\",67,\"-5288329871334733880\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/External_capsule"
+	},
+	{
+		"code": "1.1.6.5.0",
+		"name": "Basal Nucleus",
+		"othername": "Nucleus Basalis Telencephali",
+		"shortname": "basal-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",63],[\"af.httprm\",63,\"5029389699933195553\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Basal_ganglia"
+	},
+	{
+		"code": "3.2.4.0.0",
+		"name": "Suprachiasmatic Nucleus",
+		"othername": "Nucleus Suprachiasmaticus",
+		"shortname": "suprachiasmatic-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",67],[\"af.httprm\",67,\"-1175450305675690537\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus"
+	},
+	{
+		"code": "1.1.4.0.0",
+		"name": "Temporal Lobe",
+		"othername": "Lobus Temporalis",
+		"shortname": "temporal-lobe",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",71],[\"af.httprm\",71,\"2572228067003251518\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Temporal_lobe"
+	},
+	{
+		"code": "1.1.4.2.0",
+		"name": "Entorhinal Cortex",
+		"othername": "",
+		"shortname": "entorhinal-cortex",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",64],[\"af.httprm\",64,\"1706297157438092224\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Entorhinal_cortex"
+	},
+	{
+		"code": "3.4.5.0.0",
+		"name": "Ventral Posterolateral Nucleus",
+		"othername": "Nucleus Ventralis Posterolateralis",
+		"shortname": "ventral-posterolateral-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",61],[\"af.httprm\",62,\"-2115540769381801121\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Ventral_posterolateral_nucleus"
+	},
+	{
+		"code": "1.1.4.6.1",
+		"name": "Acoustic Radiation",
+		"othername": "Radiatio Acustica",
+		"shortname": "acoustic-radiation",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",64],[\"af.httprm\",64,\"6360553904886356004\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Sound"
+	},
+	{
+		"code": "2.4.1.3.0",
+		"name": "Emboliform Nucleus",
+		"othername": "Nucleus Emboliformis",
+		"shortname": "emboliform-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",79],[\"af.httprm\",79,\"2075855354486807379\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Emboliform_nucleus"
+	},
+	{
+		"code": "1.1.6.4.2.3",
+		"name": "Globus Pallidus External Segment",
+		"othername": "Globus Pallidus Lateralis",
+		"shortname": "globus-pallidus-external-segment",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",72],[\"af.httprm\",71,\"1511027009181376171\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Globus_pallidus"
+	},
+	{
+		"code": "1.1.5.2.0",
+		"name": "Fornix",
+		"othername": "Fornix",
+		"shortname": "fornix",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",50],[\"af.httprm\",50,\"2977937167298557168\",8]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Vaginal_fornix"
+	},
+	{
+		"code": "1.1.6.3.0",
+		"name": "Nucleus Accumbens",
+		"othername": "Nucleus Accumbens",
+		"shortname": "nucleus-accumbens",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",62],[\"af.httprm\",62,\"-2362858274505446648\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Nucleus_accumbens"
+	},
+	{
+		"code": "3.4.4.0.0",
+		"name": "Ventral Lateral Nucleus",
+		"othername": "Nucleus Ventralis Lateralis",
+		"shortname": "ventral-lateral-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",69],[\"af.httprm\",68,\"1357834386000407302\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Ventral_lateral_nucleus"
+	},
+	{
+		"code": "3.4.7.1.0",
+		"name": "Superior Colliculus",
+		"othername": "Colliculus Superior",
+		"shortname": "superior-colliculus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",57],[\"af.httprm\",57,\"-2721220166971661948\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Superior_colliculus"
+	},
+	{
+		"code": "1.1.6.4.2.2",
+		"name": "Globus Pallidus Internal Segment",
+		"othername": "Globus Pallidus Medialis",
+		"shortname": "globus-pallidus-internal-segment",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n53\\n[[\"di\",57],[\"af.httprm\",57,\"173561769396344928\",7]]\\n25\\n[[\"e\",4,null,null,128]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Globus_pallidus"
+	},
+	{
+		"code": "2.5.1.0.0",
+		"name": "Superior Cerebellar Peduncles",
+		"othername": "Pedunculus Cerebellaris Superior",
+		"shortname": "superior-cerebellar-peduncles",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",52],[\"af.httprm\",52,\"-4869894651242647339\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Superior_cerebellar_peduncle"
+	},
+	{
+		"code": "1.1.4.6.0",
+		"name": "Primary Auditory Cortex",
+		"othername": "",
+		"shortname": "primary-auditory-cortex",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",74],[\"af.httprm\",74,\"-8745501844589533487\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Auditory_cortex"
+	},
+	{
+		"code": "3.2.5.0.0",
+		"name": "Arcuate Nucleus",
+		"othername": "Nucleus Arcuatus",
+		"shortname": "arcuate-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",60],[\"af.httprm\",60,\"-7882663567523727719\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Arcuate_nucleus"
+	},
+	{
+		"code": "1.1.4.4.0",
+		"name": "Insula",
+		"othername": "Insula",
+		"shortname": "insula",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",62],[\"af.httprm\",62,\"6192745686540334151\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Insular_cortex"
+	},
+	{
+		"code": "3.1.1.0.0",
+		"name": "Pineal Gland",
+		"othername": "Corpus Pineale, Glandula Pinealis",
+		"shortname": "pineal-gland",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",63],[\"af.httprm\",62,\"-6675639955520441823\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Pineal_gland"
+	},
+	{
+		"code": "2.3.0.0.0",
+		"name": "Vermis",
+		"othername": "Vermis Cerebelli",
+		"shortname": "vermis",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",68],[\"af.httprm\",67,\"-2958030766289751963\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Cerebellar_vermis"
+	},
+	{
+		"code": "1.1.1.8.0",
+		"name": "Lateral Sulcus",
+		"othername": "Sulcus Lateralis",
+		"shortname": "lateral-sulcus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",70],[\"af.httprm\",70,\"8917480368268241361\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Lateral_sulcus"
+	},
+	{
+		"code": "1.1.5.0.0",
+		"name": "",
+		"othername": "",
+		"shortname": "",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n55\\n[[\"di\",99],[\"af.httprm\",98,\"-4310214502369165650\",7]]\\n25\\n[[\"e\",4,null,null,130]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": ""
+	},
+	{
+		"code": "2.4.1.1.0",
+		"name": "Fastigial Nucleus",
+		"othername": "Nucleus Fastigii",
+		"shortname": "fastigial-nucleus",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",65],[\"af.httprm\",64,\"2282690366666416384\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Fastigial_nucleus"
+	},
+	{
+		"code": "1.1.4.4.1",
+		"name": "Claustrum",
+		"othername": "Claustrum",
+		"shortname": "claustrum",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",64],[\"af.httprm\",63,\"4832279326530547223\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Claustrum"
+	},
+	{
+		"code": "1.1.6.4.2.1",
+		"name": "Putamen",
+		"othername": "Putamen",
+		"shortname": "putamen",
+		"description": "Response Error: b')]}\\'\\n\\n38\\n[[\"wrb.fr\",null,null,null,null,[8]]]\\n54\\n[[\"di\",67],[\"af.httprm\",67,\"3589094063862756946\",7]]\\n25\\n[[\"e\",4,null,null,129]]\\n'. \nUnable to get response.\nPlease double-check the cookie values and verify your network environment or google account.",
+		"url": "https://en.wikipedia.org/wiki/Putamen"
+	}
+]
