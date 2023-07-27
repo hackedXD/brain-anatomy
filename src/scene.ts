@@ -71,13 +71,15 @@ export default function runThree() {
 		pointer.y = -((event.clientY - parent.offsetTop) / canvas.clientHeight) * 2 + 1;
 	};
 
-	canvas.onpointerdown = (event: PointerEvent) => {
+	canvas.onpointerdown = () => {
 		if (!hovered) return;
 		console.log(hovered);
 
-		if (selected) selected.material.color.set(DEFAULT_COLOR);
+		if (selected && selected.material instanceof THREE.MeshStandardMaterial)
+			selected.material.color.set(DEFAULT_COLOR);
 		selected = hovered;
-		selected.material.color.set(SELECTED_COLOR);
+
+		if (selected.material instanceof THREE.MeshStandardMaterial) selected.material.color.set(SELECTED_COLOR);
 
 		// let pos = new THREE.Vector3(5, -7, 6);
 
