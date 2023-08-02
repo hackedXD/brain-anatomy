@@ -4,9 +4,9 @@ import { OrbitControls } from "three-stdlib";
 import data from "./data.json";
 
 export default function runThree() {
-	const HOVER_COLOR = 0xf7c67c;
+	const HOVER_COLOR = 0x42a5f5;
 	const DEFAULT_COLOR = 0xffffff;
-	const SELECTED_COLOR = 0xf7af7c;
+	const SELECTED_COLOR = 0x1565c0;
 
 	let parent = document.getElementById("brain-parent") as HTMLDivElement;
 	let canvas = document.getElementById("brain-canvas") as HTMLCanvasElement;
@@ -49,7 +49,9 @@ export default function runThree() {
 
 	for (let i = 0; i < data.length; i++) {
 		const element = data[i];
-		loader.load("./assets/models/" + element.code + ".glb", (gltf: GLTF) => {
+		let path = `./assets/models/${element.code}.glb`;
+
+		loader.load(path, (gltf: GLTF) => {
 			const model = gltf.scene.children[0] as THREE.Mesh;
 			model.userData = element;
 			brain.add(model);
